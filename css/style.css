@@ -9,7 +9,7 @@ body{
   padding-top: 150px;
   overflow-x: hidden;
   font-family: Arial, Helvetica, sans-serif;
-  background: url('./images/bbg.png') no-repeat top center,  white;                                       
+  background: url('images/bbg.png') no-repeat top center,  white;                                       
   background-size: 100% 900px , auto;
 }
 
@@ -1044,4 +1044,5 @@ hr {
   background: linear-gradient(180deg, #ff7b00, #e65c00);
   border-radius: 10px;
 }
+
 
